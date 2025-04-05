@@ -1,6 +1,7 @@
 # Home_Sales
 
 🏡 Home Sales Data Analysis with PySpark
+
 Overview
 This project leverages Apache Spark and PySpark SQL to analyze home sales data stored in CSV and Parquet formats. The dataset includes various features such as number of bedrooms, bathrooms, square footage, year built, and view ratings. The goal is to use SparkSQL to extract insights efficiently and optimize query performance using caching and partitioning techniques.
 
